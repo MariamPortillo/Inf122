@@ -11,14 +11,25 @@ function App() {
         image="evento2"
         dateLiteral="26 de Noviembre del 2022"
         placeLiteral="Online"
-        description="
-        ¡Hola Pythonista!<br/>
-        Participa en este Evento Presencial de la comunidad Python La Paz<br/>
-        ¿Cuánto conoces de Python?<br/>
-        Aprende a trabajar en equipo resolviendo increíbles acertijos<br/>
-        ¡Anímate a ser parte de esta actividad!<br/>
-        "
+        description={[
+        "¡Hola Pythonista!"
+        "Participa en este Evento Presencial de la comunidad Python La Paz"
+        "¿Cuánto conoces de Python?"
+        "Aprende a trabajar en equipo resolviendo increíbles acertijos"
+        "Anímate a ser parte de esta actividad!"
+        ]}
       />
+         <EventoC title="MeetUp 11 - 3 Pitfalls de lña Ingenieria de Datos"
+        image="evento2"
+        dateLiteral="26 de Noviembre del 2022"
+        placeLiteral="Online"
+        description={[
+        "¡Hola Pythonista!"
+        "Participa en este Evento Presencial de la comunidad Python La Paz"
+        "¿Cuánto conoces de Python?"
+        "Aprende a trabajar en equipo resolviendo increíbles acertijos"
+        "Anímate a ser parte de esta actividad!"
+        ]}
       
     </div>
   );
